@@ -1,0 +1,15 @@
+.navbar-brand {
+    font-size: 2rem !important;
+    color: white !important;
+}
+.navbar {
+    background-color: black !important;
+}
+.navbar-collapse {
+    display: flex;
+    justify-content: flex-end !important;
+}
+.nav-link {
+    color: white !important;
+}
+
