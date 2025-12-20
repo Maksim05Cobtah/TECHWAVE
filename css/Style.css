@@ -31,7 +31,6 @@
     to {
         visibility: hidden;
         z-index: 100;
-        opacity: 0.9;
     }
 }
 
@@ -61,6 +60,9 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    animation-name: SwipeAnimation;
+    animation-delay: 5s;
+    animation-duration: 2s;
 }
 .dives h1 {
     font-size: 4rem;
@@ -75,4 +77,13 @@
     border-radius: 15px;
     padding: 5px 15px;
     color: white;
+}
+
+@keyframes SwipeAnimation {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
 }
