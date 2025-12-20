@@ -3,7 +3,7 @@
     color: white !important;
 }
 .navbar {
-    background-color: black !important;
+    background-color: rgba(0, 0, 0, 0.37) !important;
     position: fixed !important;
     width: 100%;
 }
