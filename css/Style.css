@@ -87,3 +87,17 @@
         opacity: 1;
     }
 }
+.Foooter {
+    background-color: #0B0F1A;
+    padding: 50vh;
+    background: linear-gradient(
+        to bottom,
+        #1A1340 0%,
+        #0F0A2A 50%,
+        #070A14 100%
+    );
+    color: #EAEAFF;
+}
+
+
+}
