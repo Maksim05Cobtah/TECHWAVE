@@ -92,6 +92,7 @@
     background-color: #0b0f1a;
     background: linear-gradient(to bottom, #1a1340 0%, #0f0a2a 50%, #070a14 100%);
     color: #eaeaff;
+    overflow: hidden;
 }
 .gradieent {
     width: 50%;
@@ -101,7 +102,7 @@
 }
 .gradieentAnimation {
     animation-name: animationFooter;
-    animation-duration: 3s;
+    animation-duration: 2s;
 }
 
 .hyperLinck {
@@ -121,8 +122,11 @@
 .div2 p {
     width: 15%;
     text-align: center;
+}
+
+.divAn2 {
     animation-name: animationDiv2;
-    animation-duration: 3s;
+    animation-duration: 2s;
 }
 
 .gradieent h2 {
