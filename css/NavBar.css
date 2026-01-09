@@ -6,6 +6,7 @@
     background-color: rgba(0, 0, 0, 0.37) !important;
     position: fixed !important;
     width: 100%;
+    z-index: 110;
 }
 .navbar-collapse {
     display: flex;
