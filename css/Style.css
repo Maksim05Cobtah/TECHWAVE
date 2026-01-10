@@ -155,3 +155,8 @@
         transform: translateY(0.1px);
     }
 }
+.New {
+    background-color: darkblue;
+    padding-top: 6%;
+    color: white;
+}
