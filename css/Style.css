@@ -1,4 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lilita+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
 .AllMain {
     background-color: #292929;
 }
@@ -162,12 +164,20 @@
 }
 .div1 img {
     height: 200px;
+    border-radius: 50%;
 }
 .div1 p {
     width: 100%;
+    font-family: "Bebas Neue", sans-serif;
 }
-.div1
-{
+.div1 {
     text-align: center;
-    width: 35%
+    width: 35%;
+}
+.allSec {
+    display: flex;
+    flex-wrap: wrap;
+}
+.div1 h2 {
+    font-family: "Lilita One", sans-serif;
 }
